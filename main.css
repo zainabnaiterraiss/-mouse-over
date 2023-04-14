@@ -1,0 +1,10 @@
+div{
+    background-color: blueviolet;
+    border: 1px black solid;
+    margin-right: 100px;
+    padding:40px 20px 40px 200px;
+    display: inline-block;
+}
+#c2{
+    background-color: rgb(49, 226, 43);
+}
